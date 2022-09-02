@@ -1,4 +1,4 @@
 hey, new branch
 DevOps make the life of the developer easy.
 welcome to DevOps course.
-new line again 
+new line added 
