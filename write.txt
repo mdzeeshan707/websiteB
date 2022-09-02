@@ -1,2 +1,2 @@
 hey, new bracnch
-welcome to DevOps world. 
+DevOps make the life of the developer easy. 
